@@ -1,0 +1,7 @@
+{
+  "name": "mizank: AI Calorie Tracker",
+  "description": "An intelligent calorie and macronutrient tracker powered by Gemini 2.5. Upload food photos or descriptions to instantly log your meals.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
