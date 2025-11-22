@@ -2,7 +2,7 @@
 
 export const translations = {
   ar: {
-    appName: "كال-آب",
+    appName: "ميزانك",
     resetDay: "إعادة ضبط",
     editGoals: "تعديل الأهداف",
     dailyAnalytics: "ملخص اليوم",
@@ -73,7 +73,7 @@ export const translations = {
     planDisclaimer: "تم حساب هذه الأرقام بناءً على بياناتك. يمكنك تعديلها لاحقاً من الإعدادات."
   },
   en: {
-    appName: "CalApp",
+    appName: "Mizank",
     resetDay: "Reset Day",
     editGoals: "Edit Goals",
     dailyAnalytics: "Daily Analytics",
